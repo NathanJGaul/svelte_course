@@ -1,0 +1,19 @@
+{
+  "name": "01_hello_svelte_button",
+  "version": "0.0.0",
+  "description": "Project 1: Hello Svelte Button - Your First Interactive Element:: A simple webpage with a button that displays a welcome message when clicked",
+  "license": "CC BY-NC-SA 4.0",
+  "author": "Nathan Gaul <nathanjgaul@gmail.com>",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "@tsconfig/svelte": "^5.0.4",
+    "svelte": "^5.20.1",
+    "vite": "^6.1.0"
+  }
+}
